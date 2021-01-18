@@ -3,3 +3,8 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#container{
+    border: 1px #333 solid;
+    padding: 2em;
+}
