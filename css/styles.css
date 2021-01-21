@@ -12,3 +12,7 @@ body{
     border: 1px #333 solid;
     padding: 2em;
 }
+
+header {
+    background-color: bisque;    
+}
